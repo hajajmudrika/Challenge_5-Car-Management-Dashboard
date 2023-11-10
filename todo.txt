@@ -1,0 +1,2 @@
+1. Create seeders
+2. Create 404 API not found
